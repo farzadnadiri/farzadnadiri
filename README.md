@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-**farzadnadiri/farzadnadiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+An experienced software developer and ambitious problem solver with a demonstrated history of
+working in the research industry. Has extensive experience creating logical and innovative solutions to
+complex problems. Developed eight projects from scratch and worked in several teams for more than
+eight years.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
