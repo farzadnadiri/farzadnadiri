@@ -3,8 +3,7 @@
 
 An experienced software developer and ambitious problem solver with a demonstrated history of
 working in the research industry. Has extensive experience creating logical and innovative solutions to
-complex problems and worked in several teams for more than
-six years.
+complex problems and worked in several teams.
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
