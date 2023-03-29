@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Farzad Nadiri
 
 
-An experienced software developer and ambitious problem solver with a demonstrated history of
-working in the research industry. Has extensive experience creating logical and innovative solutions to
-complex problems and worked in several teams.
+I am passionate about solving complex problems and creating logical, innovative solutions. My expertise includes working with teams to design and develop cutting-edge software solutions. In addition to my technical skills, I also have a background in the research industry, having worked on autonomous humanoid soccer robots. This experience has taught me the importance of teamwork, communication, and perseverance in achieving success.
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
