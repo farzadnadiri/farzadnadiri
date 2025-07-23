@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Farzad Nadiri
 
 
-I am passionate about solving complex problems and creating logical, innovative solutions. My expertise includes working with teams to design and develop cutting-edge software solutions. In addition to my technical skills, I also have a background in the research industry, having worked on autonomous humanoid soccer robots. This experience has taught me the importance of teamwork, communication, and perseverance in achieving success.
+A software and robotics engineer with over a decade of experience blending research and development. I specialize in designing cutting-edge software solutions and building intelligent systems, from cloud platforms and AI models by day to prototyping autonomous robots and self-driving cars by night. My background in the research industry, particularly working on autonomous humanoid soccer robots, has deepened my appreciation for teamwork, communication, and resilience. Passionate about computer vision, machine learning, and solving complex problems, I turn ambitious ideas into real-world impact. Let’s connect and create something remarkable!
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
