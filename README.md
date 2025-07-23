@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Farzad Nadiri
 
 
-A software and robotics engineer with over a decade of experience blending research and development. I specialize in designing cutting-edge software solutions and building intelligent systems, from cloud platforms and AI models by day to prototyping autonomous robots and self-driving cars by night. My background in the research industry, particularly working on autonomous humanoid soccer robots, has deepened my appreciation for teamwork, communication, and resilience. Passionate about computer vision, machine learning, and solving complex problems, I turn ambitious ideas into real-world impact. Let’s connect and create something remarkable!
+A software and robotics engineer with over a decade of experience at the intersection of research and development. I specialize in crafting cutting-edge software solutions and building intelligent systems, from developing cloud platforms and AI models by day to prototyping autonomous robots and self-driving vehicles by night.
+My background in the research sector, particularly in autonomous humanoid soccer robots, has instilled a deep appreciation for teamwork, communication, and resilience. As part of a dedicated team, I proudly contributed to winning the RoboCup World Championship by developing fully autonomous, vision-based humanoid robots.
+I’ve led the end-to-end development of software platforms that have generated over $60 million in annual revenue. I’m passionate about computer vision, machine learning, and solving complex real-world problems. I thrive on turning ambitious ideas into impactful innovations.
+Let’s connect and build something remarkable together!
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
