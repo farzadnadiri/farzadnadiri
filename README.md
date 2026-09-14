@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Farzad Nadiri
 
 
-A software and robotics engineer with over a decade of experience at the intersection of research and development. I specialize in crafting cutting-edge software solutions and building intelligent systems, from developing cloud platforms and AI models by day to prototyping autonomous robots and self-driving vehicles by night.
-My background in the research sector, particularly in autonomous humanoid soccer robots, has instilled a deep appreciation for teamwork, communication, and resilience. As part of a dedicated team, I proudly contributed to winning the RoboCup World Championship by developing fully autonomous, vision-based humanoid robots.
-I’ve led the end-to-end development of software platforms that have generated over $60 million in annual revenue. I’m passionate about computer vision, machine learning, and solving complex real-world problems. I thrive on turning ambitious ideas into impactful innovations.
+Perception and Physical AI engineer with a PhD research track in autonomous driving at Simon Fraser University and 10+ years shipping production software. Built bird's-eye-view camera perception, IMU and camera sensor fusion for localization, and vision-based lateral control, validated in CARLA and on physical robots. Turns research into production systems: architects large-scale ML inference pipelines on AWS SageMaker and worked in a team that won the RoboCup 2015 humanoid world championship.
 Let’s connect and build something remarkable together!
 <!-- 
 - 🔭 I’m currently working on ...
